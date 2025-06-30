@@ -12,4 +12,3 @@ Este repositório reúne os links de todas as 5 atividades práticas da discipli
 - [Atividade 4 (T4)](https://github.com/mariana-lins/T4)
 - [Atividade 5 (T5)](https://github.com/mariana-lins/T5)
 
-📌 **Importante:** Cada atividade deve ser consultada e avaliada individualmente, conforme as orientações do professor.
