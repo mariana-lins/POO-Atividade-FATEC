@@ -1,0 +1,15 @@
+[submodule "Atividades/T1"]
+	path = Atividades/T1
+	url = https://github.com/mariana-lins/T1
+[submodule "Atividades/T2"]
+	path = Atividades/T2
+	url = https://github.com/mariana-lins/T2
+[submodule "Atividades/T3"]
+	path = Atividades/T3
+	url = https://github.com/mariana-lins/T3
+[submodule "Atividades/T4"]
+	path = Atividades/T4
+	url = https://github.com/mariana-lins/T4
+[submodule "Atividades/T5"]
+	path = Atividades/T5
+	url = https://github.com/mariana-lins/T5
